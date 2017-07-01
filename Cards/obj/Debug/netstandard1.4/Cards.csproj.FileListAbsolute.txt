@@ -1,7 +1,0 @@
-C:\Projects\CribbageScorer\Cards\bin\Debug\netstandard1.4\Cards.deps.json
-C:\Projects\CribbageScorer\Cards\obj\Debug\netstandard1.4\Cards.csprojResolveAssemblyReference.cache
-C:\Projects\CribbageScorer\Cards\obj\Debug\netstandard1.4\Cards.AssemblyInfo.cs
-C:\Projects\CribbageScorer\Cards\bin\Debug\netstandard1.4\Cards.dll
-C:\Projects\CribbageScorer\Cards\bin\Debug\netstandard1.4\Cards.pdb
-C:\Projects\CribbageScorer\Cards\obj\Debug\netstandard1.4\Cards.dll
-C:\Projects\CribbageScorer\Cards\obj\Debug\netstandard1.4\Cards.pdb

@@ -1,6 +1,0 @@
-C:\Projects\CribbageScorer\CribbageScorer\bin\Debug\CribbageScorer.exe.config
-C:\Projects\CribbageScorer\CribbageScorer\bin\Debug\CribbageScorer.exe
-C:\Projects\CribbageScorer\CribbageScorer\bin\Debug\CribbageScorer.pdb
-C:\Projects\CribbageScorer\CribbageScorer\obj\Debug\CribbageScorer.csprojResolveAssemblyReference.cache
-C:\Projects\CribbageScorer\CribbageScorer\obj\Debug\CribbageScorer.exe
-C:\Projects\CribbageScorer\CribbageScorer\obj\Debug\CribbageScorer.pdb

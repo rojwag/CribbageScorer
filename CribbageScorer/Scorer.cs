@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using Card = Cards.Card;
 
 namespace CribbageScorer
 {
@@ -10,8 +11,11 @@ namespace CribbageScorer
     {
         public Scorer()
         {
-            Console.WriteLine("This is a scorer");
-            Console.ReadKey();
+        }
+
+        public int Score(List<Card> hand, Card crib)
+        {
+            return 0;
         }
     }
 }

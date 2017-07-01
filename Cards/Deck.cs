@@ -49,6 +49,18 @@ namespace Cards
             return deck;
         }
 
+        public static string CardsToString(List<Card> cards)
+        {
+            string s = string.Empty;
+
+            foreach (Card c in cards)
+            {
+                s += c.ToStringShort() + "-";
+            }
+
+            return s;
+        }
+
         public enum Suit
         {
             Spades, Hearts, Diamonds, Clubs
